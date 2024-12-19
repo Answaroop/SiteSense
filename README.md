@@ -27,7 +27,7 @@ are most frequented and well-regarded by diners. In addition to sentiment analys
 we utilise geographic data to understand the distribution of restaurants across various
 neighbourhoods in Bangalore, identifying underserved areas with potential for new dining
 establishments.
-\\
+<br><br>
 To enhance the accuracy of our recommendations, we integrate datasets from Karnataka
 government sources and Zomato, which provide insights into population demographics
 and economic factors. By combining these datasets, we aim to align restaurant placement
