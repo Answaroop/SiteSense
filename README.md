@@ -1,5 +1,18 @@
 # SiteSense
-An LBSN driven Restaurant Site Recommendation Model
+An LBSN driven Restaurant Site Recommendation Model- Find your ideal site now! (https://srgpvnysbjy1ft4hhkm0be18dzz2yqcg.vercel.app/)
+
+## Objective
+
+- Identify neighborhoods with:
+  - High density of restaurants
+  - Their cuisines
+  - Customer satisfaction scores
+
+- Develop a recommendation model to:
+  - Suggest the ideal site for a restaurant of a particular cuisine.
+  - Recommend the ideal cuisines for a given restaurant location to maximize profitability.
+
+- Provide suggestions on the ideal average cost for two for the restaurant recommendations.
 
 This project aims to tackle the challenge of optimising restaurant site selection in Bangalore
 by leveraging sentiment analysis and geographic data. Traditional methods of site
@@ -14,6 +27,7 @@ are most frequented and well-regarded by diners. In addition to sentiment analys
 we utilise geographic data to understand the distribution of restaurants across various
 neighbourhoods in Bangalore, identifying underserved areas with potential for new dining
 establishments.
+\\
 To enhance the accuracy of our recommendations, we integrate datasets from Karnataka
 government sources and Zomato, which provide insights into population demographics
 and economic factors. By combining these datasets, we aim to align restaurant placement
